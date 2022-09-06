@@ -1,1 +1,1 @@
-Write a script that counts the number of directories and sub-directories in the current directory
+An acrostic is a poem (or other form of writing) in which the first letter
